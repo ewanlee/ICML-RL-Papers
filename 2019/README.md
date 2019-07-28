@@ -1,7 +1,7 @@
 # Method Related
 - Rakelly, Kate, Aurick Zhou, Chelsea Finn, Sergey Levine, and Deirdre Quillen. "[Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](https://arxiv.org/abs/1903.08254)." In International Conference on Machine Learning, pp. 5331-5340. 2019. [`UC Berkelry`]
 - Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning
-- Quantifying Generalization in Reinforcement Learning
+- Cobbe, Karl, Oleg Klimov, Chris Hesse, Taehoon Kim, and John Schulman. "[Quantifying Generalization in Reinforcement Learning](https://arxiv.org/abs/1812.02341)." In International Conference on Machine Learning, pp. 1282-1289. 2019. [`OpenAI`]
 - Policy Certificates: Towards Accountable Reinforcement Learning
 - Neural Logic Reinforcement Learning
 - Probability Functional Descent: A Unifying Perspective on GANs, Variational Inference, and Reinforcement Learning
